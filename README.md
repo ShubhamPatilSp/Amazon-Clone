@@ -1,3 +1,6 @@
+![Screenshot 2024-05-15 151042](https://github.com/ShubhamPatilSp/Amazon-Clone/assets/122681369/cd749690-0c3c-42bd-8978-7e3e77ef1b44)
+![Screenshot 2024-05-15 151113](https://github.com/ShubhamPatilSp/Amazon-Clone/assets/122681369/f0e4a90f-7e19-4dc7-843c-cc94a2c538e4)
+
 # Simple E-commerce Website Layout
 
 ## Introduction
